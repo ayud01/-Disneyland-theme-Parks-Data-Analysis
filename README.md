@@ -22,7 +22,7 @@ I have implanted various approaches to understand the visitor's sentiments. Firs
 
 I have used below techniques:
 
-- **Data Visualization Analysis**: Using matplotlib and seaborn Libraries
+- **Data Visualization Analysis**: Using Pandas, matplotlib and seaborn Libraries
 
 - **Sentiment Analysis**: 
 1. *Machine learning-based model*: Using Bag of Words and Naive Bayes classifier
