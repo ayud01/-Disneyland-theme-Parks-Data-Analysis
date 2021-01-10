@@ -4,7 +4,7 @@
 The main aim of Walt Disney is to predict if theme parks should implant better facilities/ services or not, to maintain or hike customer retention for increased business profits. They are more focused to address customers concerns and interests to manage the Walt Disney theme park better and provide the best services to the customers. Thus, we have summarise sentiments using customer review and to club similar emotions under topics to interpret the outcomes adequately.
 
 ## DataSet
-The dataset we will be using for the project is sourced from Kaggle. The dataset consists of approximately 42,000 reviews, posted by visitors to a popular
+The dataset used in this project consists of approximately 42,000 reviews, posted by visitors to a popular
 travel review platform (TripAdvisor). 
 The data include the following information:
 
